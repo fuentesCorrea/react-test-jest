@@ -1,14 +1,16 @@
 # CounterApp
 
-Esta es nuestra primera aplicación de React. Recuerden que si desean ejecutar esta aplicación, deben de reconstruir los módulos de node así:
+esta es un app de entranamiento para realizar pruebas con jest 
 
 ```
+primer paso de instalar los modulos 
 npm install
 ```
 
 Y luego pueden correrlo así
 
 ```
+luego ejecutar
 npm start
 ```
 
