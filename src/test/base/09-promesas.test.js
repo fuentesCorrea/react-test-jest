@@ -21,7 +21,7 @@ describe('descibe 09-promesas ', () => {
 
     })
 
-    test('retorna un error o validacion de error', (done) => {
+    test('retorna valores de error', (done) => {
 
         const id = 10;
         getHeroeByIdAsync(id).catch(error => {
